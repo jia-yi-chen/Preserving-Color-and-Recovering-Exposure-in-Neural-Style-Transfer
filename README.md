@@ -13,3 +13,7 @@
 
 ### Some results
 ![image](https://github.com/jia-yi-chen/Preserving-Color-and-Recovering-Exposure-in-Neural-Style-Transfer/blob/master/figures/2.jpg)
+
+## Developed Time
+
+2017
